@@ -1,0 +1,3 @@
+# Contributors
+
+- Proyecto individual (estudiante).
