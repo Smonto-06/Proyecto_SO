@@ -1,3 +1,3 @@
 # Contributors
 
-- Proyecto individual (estudiante).
+- Proyecto individual (Samuel).
